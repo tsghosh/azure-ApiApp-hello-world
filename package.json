@@ -1,0 +1,11 @@
+{
+    "name": "azure-apiapp-hello-world",
+    "description": "Simple Hello World Node.js sample for Azure App Service - API APP",
+    "version": "0.0.1",
+    "private": true,
+    "license": "MIT",
+    "author": "ts ghosh",
+    "scripts": {
+        "start": "node index.js"
+    }
+}
